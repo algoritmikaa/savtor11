@@ -1,0 +1,10 @@
+header h1 {
+    color: aqua;
+    background-color: black;
+}
+
+a  {
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: blueviolet;
+}
